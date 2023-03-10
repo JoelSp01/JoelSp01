@@ -5,20 +5,24 @@
   <h3 align="center"> Estudio ingniería en Tecnologías de la Información y Comunicación en la PUCE-I me encanta el mundo de la tecnología y le encuentro pasión al ámbito   de programación :computer: y redes :globe_with_meridians:. También disfruto mucho de poder ayudar a los demás brindando soluciones oportunas y eficientes :bulb:. <h3>
 </div>
 
+<div id="badges" align="center">
+  <a href="https://www.twitch.tv/the_chuel" target="_blank">
+<img src="https://img.shields.io/twitch/status/the_chuel?color=blue&logo=twitch&style=for-the-badge" alt="TwitchBadge">
+</a>
+
+<a href="https://www.youtube.com/channel/UCyFL0oO5utUsHBcOF39QREw" target="_blank">
+<img src="https://img.shields.io/youtube/channel/subscribers/UCyFL0oO5utUsHBcOF39QREw?logo=youtube&style=for-the-badge" alt="YoutubeBadge">
+</a>
+</div>
 
 
+---
+<h2>👾Sobre mi: </h2>
+    
+- 🌍 I am living in Ecuador
+- 🧠 I am currently learning ReactJs, JavaScript
+- 📲 You can contact me at joeldesarrollador@gmail.com
+- 👨‍💼 You can check my portfolio
+- 🎮 As a hobby I like to create gaming content in [Chuel](https://www.youtube.com/channel/UCyFL0oO5utUsHBcOF39QREw)
 
-<!--
-**JoelSp01/JoelSp01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
