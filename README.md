@@ -22,7 +22,38 @@
 - 🌍 I am living in Ecuador
 - 🧠 I am currently learning ReactJs, JavaScript
 - 📲 You can contact me at joeldesarrollador@gmail.com
-- 👨‍💼 You can check my portfolio
+- 👨‍💼 You can check my portfolio [Portafolio](www.linkedin.com/in/joelsanchezp)
 - 🎮 As a hobby I like to create gaming content in [Chuel](https://www.youtube.com/channel/UCyFL0oO5utUsHBcOF39QREw)
+---
+<div align="left">
+  <h2>🔨 Languages and Tools</h2>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="40" height="40">
+</div>
+
+ ---
+ <h2>⭐ Stats</h2>
+    
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelSp01&show_icons=true&theme=tokyonight)
+       
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelSp01&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)   
+    
+    
+    
+ 
 
 
