@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" width="350">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzN3dW14Zjhwa3Z0c2xjbmY2Yng5ZHg1eTQ1MmhoMXdrdnV3cjZidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="350">
   <h1 align="center">Hi👋 I'm Joel Sánchez</h1>
   <h2 align="center"> :point_right: Future Developer :point_left: </h2>
   <h3 align="center"> Estudio ingeniería en Tecnologías de la Información y Comunicación en la PUCE-I me encanta el mundo de la tecnología y le encuentro pasión al ámbito   de programación :computer: y redes :globe_with_meridians:. También disfruto mucho de poder ayudar a los demás brindando soluciones oportunas y eficientes :bulb:. <h3>
