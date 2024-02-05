@@ -46,6 +46,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40">
 </div>
 
  ---
