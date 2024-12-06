@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzN3dW14Zjhwa3Z0c2xjbmY2Yng5ZHg1eTQ1MmhoMXdrdnV3cjZidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="350">
   <h1 align="center">Hi👋 I'm Joel Sánchez</h1>
-  <h2 align="center"> :point_right: Future Developer :point_left: </h2>
-  <h3 align="center"> Estudio Ingeniería en Tecnologías de la Información y Comunicación en la PUCE-I me encanta el mundo de la tecnología y le encuentro pasión al ámbito   de programación :computer: y redes :globe_with_meridians:. También disfruto mucho de poder ayudar a los demás brindando soluciones oportunas y eficientes :bulb:. <h3>
+  <h2 align="center"> :point_right: TI E :point_left: </h2>
+  <h3 align="center">Spy ingeniero en Tecnolgías de la Información me encanta el mundo de la tecnología y le encuentro pasión al ámbito   de programación :computer: y redes :globe_with_meridians:. También disfruto mucho de poder ayudar a los demás ngineerbrindando soluciones oportunas y eficientes :bulb:. <h3>
 </div>
 
 <div id="badges" align="center">
