@@ -28,4 +28,4 @@ Soy un Ingeniero de Software enfocado en la construcción de arquitecturas escal
 ---
 *P.D. Mi cara cuando toca resolver un bug en producción un viernes a las 5 PM:*
 
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="150">
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzN3dW14Zjhwa3Z0c2xjbmY2Yng5ZHg1eTQ1MmhoMXdrdnV3cjZidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="350">
