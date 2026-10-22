@@ -15,11 +15,6 @@ Soy un Ingeniero de Software enfocado en la construcción de arquitecturas escal
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 📊 Estadísticas de Código
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoelSp01&show_icons=true&theme=tokyonight&count_private=true" alt="Joel's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelSp01&layout=compact&theme=tokyonight&hide=php,c%23,html,css,blade" alt="Top Langs" />
-</p>
 
 ### 📬 Contacto
 - **LinkedIn:** [linkedin.com/in/joelsanchezp](https://www.linkedin.com/in/joelsanchezp)
