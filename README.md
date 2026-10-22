@@ -1,62 +1,31 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzN3dW14Zjhwa3Z0c2xjbmY2Yng5ZHg1eTQ1MmhoMXdrdnV3cjZidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="350">
-  <h1 align="center">Hi👋 I'm Joel Sánchez</h1>
-  <h2 align="center"> :point_right: TI Engineer :point_left: </h2>
-  <h3 align="center">Soy ingeniero en Tecnolgías de la Información me encanta el mundo de la tecnología y le encuentro pasión al ámbito   de programación :computer: y redes :globe_with_meridians:. También disfruto mucho de poder ayudar a los demás ngineerbrindando soluciones oportunas y eficientes :bulb:. <h3>
-</div>
+# Hi, I'm Joel Sánchez 👋
+**Full Stack Software Engineer | Tech Lead | SaaS & Spec-Driven Development**
 
-<div id="badges" align="center">
-  <a href="https://www.twitch.tv/the_chuel" target="_blank">
-<img src="https://img.shields.io/twitch/status/the_chuel?color=blue&logo=twitch&style=for-the-badge" alt="TwitchBadge">
-</a>
+Soy un Ingeniero de Software enfocado en la construcción de arquitecturas escalables, sistemas transaccionales y plataformas SaaS. Priorizo el código limpio, la seguridad y el rendimiento mediante Spec-Driven Development.
 
-<a href="https://www.youtube.com/channel/UCyFL0oO5utUsHBcOF39QREw" target="_blank">
-<img src="https://img.shields.io/youtube/channel/subscribers/UCyFL0oO5utUsHBcOF39QREw?logo=youtube&style=for-the-badge" alt="YoutubeBadge">
-</a>
-</div>
+### 🏢 Mi Trabajo Actual
+> **Nota de actividad:** La mayor parte de mi código se encuentra en repositorios privados bajo acuerdos de confidencialidad y en entornos empresariales. Actualmente me desempeño como Tech Lead y Core Developer en plataformas B2B (motores de facturación, revisión vehicular y gestión de créditos).
 
+### 💻 Stack Principal
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### 📊 Estadísticas de Código
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoelSp01&show_icons=true&theme=tokyonight&count_private=true" alt="Joel's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelSp01&layout=compact&theme=tokyonight&hide=php,c%23,html,css,blade" alt="Top Langs" />
+</p>
+
+### 📬 Contacto
+- **LinkedIn:** [linkedin.com/in/joelsanchezp](https://www.linkedin.com/in/joelsanchezp)
+- **Email:** joeldesarrollador@gmail.com
 
 ---
-<h2>👾Sobre mi: </h2>
-    
-- 🌍 I am living in Ecuador
-- 🧠 I am currently learning ReactJs, JavaScript
-- 📲 You can contact me at joeldesarrollador@gmail.com
-- 👨‍💼 You can check my portfolio [Portafolio](www.linkedin.com/in/joelsanchezp)
-- 🎮 As a hobby I like to create gaming content in [Chuel](https://www.youtube.com/channel/UCyFL0oO5utUsHBcOF39QREw)
----
-<div align="left">
-  <h2>🔨 Languages and Tools</h2>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40">
-</div>
+*P.D. Mi cara cuando toca resolver un bug en producción un viernes a las 5 PM:*
 
- ---
- <h2>⭐ Stats</h2>
-    
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelSp01&show_icons=true&theme=tokyonight)
-       
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelSp01&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)   
-    
-    
-    
- 
-
-
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="150">
